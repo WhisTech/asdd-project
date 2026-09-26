@@ -8,7 +8,6 @@
 
 
 
-
 > Streamline inventory tracking, billing, and customer management with a modern, full-stack solution> Streamline inventory tracking, billing, and customer management with a modern, full-stack solution
 
 
