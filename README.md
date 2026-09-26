@@ -805,15 +805,6 @@ Stockify is proudly open source and community-driven. We believe in:
 - **Accessibility** - Free and accessible to businesses of all sizes
 - **Innovation** - Continuous improvement through community feedback
 
-### 📊 **Project Statistics**
-
-![GitHub Stars](https://img.shields.io/github/stars/Princelad/stockify?style=social&label=Stars)
-![GitHub Issues](https://img.shields.io/github/issues/Princelad/stockify?style=flat-square&color=red)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Princelad/stockify?style=flat-square&color=blue)
-![GitHub Contributors](https://img.shields.io/github/contributors/Princelad/stockify?style=flat-square&color=green)
-![GitHub License](https://img.shields.io/github/license/Princelad/stockify?style=flat-square)
-![GitHub Release](https://img.shields.io/github/v/release/Princelad/stockify?style=flat-square&color=purple)
-
 ### 🤲 **How to Contribute**
 
 1. **🍴 Fork** the repository
@@ -861,11 +852,6 @@ We recognize and celebrate our contributors! Visit our [Contributors Page](CONTR
 
 <div align="center">
 
-## 🌟 **Star History**
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Princelad/stockify&type=Date)](https://star-history.com/#Princelad/stockify&Date)
-
----
 
 ### 💝 **Show Your Support**
 
