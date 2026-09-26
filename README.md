@@ -17,7 +17,9 @@
 
 
 
-## 🚀 Quick Start## 🎯 Project Scope
+## 🚀 Quick Start
+
+# 🎯 Project Scope
 
 
 
@@ -65,7 +67,7 @@ npm run start:dev---
 
 ```
 
-## 🚀 Quick Start
+# 🚀 Quick Start
 
 ### Environment Setup
 
