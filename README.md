@@ -6,9 +6,6 @@
 
 
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE)[![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-
-[![GitHub Stars](https://img.shields.io/github/stars/Princelad/stockify?style=social)](https://github.com/Princelad/stockify)[![GitHub Stars](https://img.shields.io/github/stars/Princelad/stockify?style=social)](https://github.com/Princelad/stockify)
 
 
 
