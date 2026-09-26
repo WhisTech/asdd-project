@@ -1,4 +1,4 @@
-# 📦 Stockify# 📦 Stockify
+# 📦 Stockify
 
 
 
