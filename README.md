@@ -30,7 +30,7 @@
 
 - npm or yarn
 
-Help shopkeepers and business owners efficiently manage their inventory and streamline billing processes by:
+Help shopkeepers and business owners efficiently manage their inventory and streamline billing processes by :
 
 ### Installation
 
