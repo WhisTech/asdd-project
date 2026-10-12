@@ -1,0 +1,32 @@
+
+name: Simple Stockify CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    name: Basic CI Check
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+
+      - name: Check Node.js
+        run: node --version
+
+      - name: Check npm
+        run: npm --version
+
+      - name: Verify repository
+        run: |
+          echo "Repository checkout successful"
+          echo "Basic CI checks passed"
